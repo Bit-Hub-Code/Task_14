@@ -1,0 +1,92 @@
+body {
+
+    background-color: antiquewhite;
+
+}
+
+.hd {
+
+    background-color: #add8e6;
+    position: sticky;
+    top: 0px;
+
+}
+
+.lt {
+
+    background-color: #add8e6;
+    position: sticky;
+    left: 0px;
+
+}
+
+.l2 {
+
+    background-color: rgb(234, 234, 234);
+
+}
+
+.l4 {
+
+    background-color: rgb(234, 234, 234);
+
+}
+
+.l6 {
+
+    background-color: rgb(234, 234, 234);
+
+}
+
+.l8 {
+
+    background-color: rgb(234, 234, 234);
+
+}
+
+table {
+
+    border-collapse: collapse;
+    min-width: 1200px;
+    min-height: 700px;
+
+}
+
+table {
+
+    border-collapse: collapse;
+
+}
+
+.tbl-container {
+
+    max-width: fit-content;
+    max-height: fit-content;
+
+}
+
+.tbl-fixed {
+
+    overflow-x: scroll;
+    overflow-y: scroll;
+    height: fit-content;
+    max-height: 400px;
+    max-width: 700px;
+
+}
+
+.z2 {
+
+    z-index: 5;
+
+}
+
+.bl_ab {
+
+    position: absolute;
+    background-color: #add8e6;
+    width: 96px;
+    height: 77px;
+    z-index: 10;
+
+}
